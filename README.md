@@ -1,2 +1,2 @@
-# GameList
-GameList 
+# GameHome
+game home page
